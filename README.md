@@ -73,7 +73,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos From My YouTube Channel
 
 <!-- YOUTUBE:START -->
 
@@ -100,6 +100,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
+
+### Most Usel Languages In my Projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheasad&langs_count=8)](https://github.com/iamtheasad/github-readme-stats)
 
 ---
 
