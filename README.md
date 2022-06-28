@@ -7,11 +7,11 @@
 
 [![facebook](https://img.shields.io/website?label=facebook.com&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/iamtheasad)](https://facebook.com/iamtheasad)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamtheasad?color=1d9bf0&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamtheasad?color=1d9bf0&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamtheasad&screen_name=iamtheasad)
 
 ## I'm a Developer and Teacher!!
 
-- 🔭 I’m currently working on [Sharetrip](https://sharetrip.net)
+- 🔭 I’m currently working on [Sharetrip](https://sharetrip.net) as a Front-end Engineer
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on [Sharetrip](https://sharetrip.net) Website
 - 💬 Ask me about Javascript, css, html, gulp, scss, nunjucks
@@ -98,7 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
+1. 🗣 Commented on [#156](https://github.com/iamtheasad/bitte-l-p-with-gulp) in [iamtheasad/create-10k-nft-collection](https://github.com/iamtheasad/bitte-l-p-with-gulp)
+2. 🎉 Merged PR [#156](https://github.com/iamtheasad/create-10k-nft-collection/pull/156) in [iamtheasad/create-10k-nft-collection](https://github.com/iamtheasad/create-10k-nft-collection)
+3. ❌ Closed PR [#44](https://github.com/iamtheasad/minter-dapp/pull/44) in [iamtheasad/minter-dapp](https://github.com/iamtheasad/minter-dapp)
+4. 🗣 Commented on [#44](https://github.com/iamtheasad/minter-dapp/issues/44) in [iamtheasad/minter-dapp](https://github.com/iamtheasad/minter-dapp)
+5. ❌ Closed PR [#45](https://github.com/iamtheasad/minter-dapp/pull/45) in [iamtheasad/minter-dapp](https://github.com/iamtheasad/minter-dapp)
 <!--END_SECTION:activity-->
 
 </details>
