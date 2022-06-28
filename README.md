@@ -87,10 +87,9 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts From dev.to
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
