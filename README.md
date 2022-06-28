@@ -75,6 +75,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [আমার মামা যখন ক্যামেরা গার্ল](https://www.youtube.com/watch?v=XIlViycNEIA)
 - [How to send email using Gmail API &lpar;uses OAuth2 and nodemailer&rpar; | No Sound](https://www.youtube.com/watch?v=gLE1XoKfqBQ)
 - [JavaScript Nested Loop](https://www.youtube.com/watch?v=Sltjhrye7h8)
@@ -86,7 +87,7 @@
 
 ---
 
-### 📕 Latest Blog Posts From dev.to
+### 📕 Latest Blog Posts From https://techblograna.wordpress.com/
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
