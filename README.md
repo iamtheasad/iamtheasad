@@ -1,7 +1,7 @@
 # Hi there, I'm Rana [iamtheasad][youtube] 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Rana%20Javascript&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=%20Rana%20Javascript%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Subscribers&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=Total%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
