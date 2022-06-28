@@ -91,7 +91,6 @@
 ### 📕 Latest Blog Posts From https://techblograna.wordpress.com/
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Sass Media Queries With Mixin](https://techblograna.wordpress.com/2021/10/14/sass-media-queries-with-mixin/)
 - [In Css Media Query Which css Unit You Shoul Use?](https://techblograna.wordpress.com/2021/10/13/in-css-media-query-which-css-unit-you-shoul-use/)
 - [Media Query Write With Javascript](https://techblograna.wordpress.com/2021/09/23/media-query-write-with-javascript/)
