@@ -1,15 +1,12 @@
-# Hi there, I'm Rana [iamtheasad][youtube] 👋
+<!--
+  Source of this readme settings:
+  1. https://github.com/gautamkrishnar/blog-post-workflow
+  2. https://github.com/anuraghazra/github-readme-stats
+ -->
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Subscribers&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=Total%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+# Hi there, I'm Rana [Linkedin][linkedin] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-
-<!-- [![facebook](https://img.shields.io/website?label=facebook.com&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/iamtheasad)](https://facebook.com/iamtheasad) -->
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamtheasad?color=1d9bf0&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamtheasad&screen_name=iamtheasad)
-
-## I'm a Developer and Teacher!!
+## I'm a Developer and love to teach Programming 💖
 
 - 🔭 I’m currently working on [Sharetrip](https://sharetrip.net) as a Front-end Engineer
 - 🌱 I’m currently learning Javascript
@@ -18,14 +15,25 @@
 - ⚡ Fun fact: Prgramming is like a girl, I always wanna play with it.
 - 🥅 2022 Goals:
 
-      - Learn more about Javascript
-      -- Learn Backend Technology
-      --- Learn web3
+       - Learn more about Javascript
+       -- Learn more about Javascript Framework and Library
+
+  <!-- -- Learn Backend Technology
+  --- Learn web3 -->
+
+  ***
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Subscribers&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=Total%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+<a href="https://stackoverflow.com/users/7172189/iamtheasad"><img src="https://stackoverflow.com/users/flair/7172189.png" width="208" height="58" alt="profile for iamtheasad at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="My Stack Overflow Profile"></a>
+
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/iamtheasad?color=1d9bf0&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamtheasad&screen_name=iamtheasad) -->
 
 ### Connect with me:
 
-[![website](./img/stackoverflow-dark.svg)](https://stackoverflow.com/users/7172189/iamtheasad)
-&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -35,21 +43,20 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamtheasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamtheasad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/aasaadrana#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/aasaadrana#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)][instagram]
+[![website](./img/instagram-dark.svg)][instagram]
+[![website](./img/facebook.svg)][facebook]
 
 ### Languages and Tools:
 
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
-
-<!-- [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
-
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][stackoverflow]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][stackoverflow]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][stackoverflow]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][stackoverflow]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][stackoverflow]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][stackoverflow]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only#gh-dark-mode-only)
 
 <!-- [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
 
@@ -63,11 +70,6 @@
 
 <!-- [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github]
-
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only#gh-dark-mode-only)
-
 <br />
 <br />
 
@@ -76,6 +78,7 @@
 ### 📺 Latest YouTube Videos From My YouTube Channel
 
 <!-- YOUTUBE:START -->
+
 - [আমার মামা যখন ক্যামেরা গার্ল](https://www.youtube.com/watch?v=XIlViycNEIA)
 - [How to send email using Gmail API &lpar;uses OAuth2 and nodemailer&rpar; | No Sound](https://www.youtube.com/watch?v=gLE1XoKfqBQ)
 - [JavaScript Nested Loop](https://www.youtube.com/watch?v=Sltjhrye7h8)
@@ -90,6 +93,7 @@
 ### 📕 Latest Blog Posts From My Website
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Sass Media Queries With Mixin](https://techblograna.wordpress.com/2021/10/14/sass-media-queries-with-mixin/)
 - [In Css Media Query Which css Unit You Shoul Use?](https://techblograna.wordpress.com/2021/10/13/in-css-media-query-which-css-unit-you-shoul-use/)
 - [Media Query Write With Javascript](https://techblograna.wordpress.com/2021/09/23/media-query-write-with-javascript/)
@@ -99,27 +103,17 @@
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
 
-### Most Usel Languages In my Projects
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheasad&langs_count=8)](https://github.com/iamtheasad/github-readme-stats)
+### Most Used Languages In my Projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheasad&langs_count=9)](https://github.com/iamtheasad/github-readme-stats)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+### GitHub Stats
 
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+  <img align="left" alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false" />
 
 [github]: https://github.com/iamtheasad?tab=repositories
 [website]: https://techblograna.wordpress.com/
@@ -128,6 +122,7 @@
 [youtube]: https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/
 [instagram]: https://instagram.com/iamtheasad
 [linkedin]: https://linkedin.com/in/iamtheasad
+[stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
