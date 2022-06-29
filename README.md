@@ -43,9 +43,10 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamtheasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamtheasad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)][instagram]
-[![website](./img/instagram-dark.svg)][instagram]
-[![website](./img/facebook.svg)][facebook]
+[![website](./img/instagram-light.svg)](https://instagram.com/aasaadrana#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/aasaadrana#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://facebook.com/iamthesad#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://facebook.com/iamthesad#gh-dark-mode-only)
 
 ### Languages and Tools:
 
