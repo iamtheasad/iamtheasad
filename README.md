@@ -94,11 +94,11 @@
 ### 📕 Latest Blog Posts From My Website
 
 <!-- BLOG-POST-LIST:START -->
+- [Html form validation with vanilla js](https://techblograna.wordpress.com/2022/08/03/html-form-validation-with-vanilla-js/)
 - [Sass Media Queries With Mixin](https://techblograna.wordpress.com/2021/10/14/sass-media-queries-with-mixin/)
 - [In Css Media Query Which css Unit You Shoul Use?](https://techblograna.wordpress.com/2021/10/13/in-css-media-query-which-css-unit-you-shoul-use/)
 - [Media Query Write With Javascript](https://techblograna.wordpress.com/2021/09/23/media-query-write-with-javascript/)
 - [How to copy text onclick function using jquery?](https://techblograna.wordpress.com/2021/09/22/how-to-copy-text-onclick-function-using-jquery/)
-- [Email Template List](https://techblograna.wordpress.com/2021/07/11/email-template-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
