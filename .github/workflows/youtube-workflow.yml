@@ -2,7 +2,7 @@ name: Latest YouTube Videos
 on:
   schedule:
     # Runs every hour
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@main
         with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCSozulc9frdn-q8EPX4QwSA"
+          comment_tag_name: 'YOUTUBE'
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCSozulc9frdn-q8EPX4QwSA'
