@@ -95,12 +95,11 @@
 ### 📕 Latest Blog Posts From My Website
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to get git commit history, branches from another private, public, forked or your own repository?](https://techblograna.wordpress.com/2022/08/14/how-to-get-git-commit-history-branches-from-another-private-public-forked-or-your-own-repository/)
 - [Multiple html form validation in a single function with the jquery-validate plugin](https://techblograna.wordpress.com/2022/08/03/multiple-html-form-validation-in-a-single-function-with-the-jquery-validate-plugin/)
 - [Html form validation with vanilla js](https://techblograna.wordpress.com/2022/08/03/html-form-validation-with-vanilla-js/)
 - [Sass Media Queries With Mixin](https://techblograna.wordpress.com/2021/10/14/sass-media-queries-with-mixin/)
 - [In Css Media Query Which css Unit You Shoul Use?](https://techblograna.wordpress.com/2021/10/13/in-css-media-query-which-css-unit-you-shoul-use/)
-- [Media Query Write With Javascript](https://techblograna.wordpress.com/2021/09/23/media-query-write-with-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
