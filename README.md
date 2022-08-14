@@ -80,6 +80,7 @@
 ### 📺 Latest YouTube Videos From My YouTube Channel
 
 <!-- YOUTUBE:START -->
+
 - [আমার মামা যখন ক্যামেরা গার্ল](https://www.youtube.com/watch?v=XIlViycNEIA)
 - [How to send email using Gmail API &lpar;uses OAuth2 and nodemailer&rpar; | No Sound](https://www.youtube.com/watch?v=gLE1XoKfqBQ)
 - [JavaScript Nested Loop](https://www.youtube.com/watch?v=Sltjhrye7h8)
@@ -94,6 +95,7 @@
 ### 📕 Latest Blog Posts From My Website
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Multiple html form validation in a single function with the jquery-validate plugin](https://techblograna.wordpress.com/2022/08/03/multiple-html-form-validation-in-a-single-function-with-the-jquery-validate-plugin/)
 - [Html form validation with vanilla js](https://techblograna.wordpress.com/2022/08/03/html-form-validation-with-vanilla-js/)
 - [Sass Media Queries With Mixin](https://techblograna.wordpress.com/2021/10/14/sass-media-queries-with-mixin/)
@@ -113,7 +115,7 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false" />
+  <img alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false" />
 
 [github]: https://github.com/iamtheasad?tab=repositories
 [website]: https://techblograna.wordpress.com/
@@ -124,7 +126,17 @@
 [linkedin]: https://linkedin.com/in/iamtheasad
 [stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad
 
+---
+
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=webpack-static-starter)](https://github.com/iamtheasad/webpack-static-starter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=gulp-nunjucks-static-starter)](https://github.com/iamtheasad/gulp-nunjucks-static-starter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=eslint-config)](https://github.com/iamtheasad/eslint-config)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=nexter-l-p)](https://github.com/iamtheasad/nexter-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=shareTravel-l-p)](https://github.com/iamtheasad/shareTravel-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=trillo-l-p)](https://github.com/iamtheasad/trillo-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=face-recognition-app)](https://github.com/iamtheasad/face-recognition-app)
