@@ -133,7 +133,15 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=webpack-static-starter)](https://github.com/iamtheasad/webpack-static-starter)
+Pinned:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=user)](https://github.com/iamtheasad/user)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=dashboard-markup)](https://github.com/iamtheasad/dashboard-markup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=email-template)](https://github.com/iamtheasad/email-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=exhibition-gulp)](https://github.com/iamtheasad/exhibition-gulp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=all-banners-view)](https://github.com/iamtheasad/all-banners-view)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=shareTravel-l-p)](https://github.com/iamtheasad/shareTravel-l-p)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=gulp-nunjucks-static-starter)](https://github.com/iamtheasad/gulp-nunjucks-static-starter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=eslint-config)](https://github.com/iamtheasad/eslint-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=nexter-l-p)](https://github.com/iamtheasad/nexter-l-p)
