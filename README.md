@@ -23,8 +23,8 @@
 
   ***
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Subscribers&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=Total%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Subscribers&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=Total%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
 
 <a href="https://stackoverflow.com/users/7172189/iamtheasad"><img src="https://stackoverflow.com/users/flair/7172189.png" width="208" height="58" alt="profile for iamtheasad at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="My Stack Overflow Profile"></a>
 
@@ -34,31 +34,34 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/#gh-light-mode-only)
+<!-- [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/iamtheasad#gh-light-mode-only)
+&nbsp;&nbsp; -->
+<!-- [![website](./img/twitter-light.svg)](https://twitter.com/iamtheasad#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/iamtheasad#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamtheasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamtheasad#gh-dark-mode-only)
-&nbsp;&nbsp;
+
+<!-- &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/aasaadrana#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/aasaadrana#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://instagram.com/aasaadrana#gh-dark-mode-only) -->
+<!-- &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)](https://facebook.com/iamtheasad#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://facebook.com/iamtheasad#gh-dark-mode-only)
+[![website](./img/facebook-dark.svg)](https://facebook.com/iamtheasad#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][stackoverflow]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][stackoverflow]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][stackoverflow]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][stackoverflow]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][stackoverflow]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][stackoverflow]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only#gh-dark-mode-only)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github]
+
+<!-- [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA#gh-light-mode-only#gh-dark-mode-only) -->
 
 <!-- [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
 
