@@ -83,7 +83,6 @@
 ### 📺 Latest YouTube Videos From My YouTube Channel
 
 <!-- YOUTUBE:START -->
-
 - [আমার মামা যখন ক্যামেরা গার্ল](https://www.youtube.com/watch?v=XIlViycNEIA)
 - [How to send email using Gmail API &lpar;uses OAuth2 and nodemailer&rpar; | No Sound](https://www.youtube.com/watch?v=gLE1XoKfqBQ)
 - [JavaScript Nested Loop](https://www.youtube.com/watch?v=Sltjhrye7h8)
@@ -98,12 +97,11 @@
 ### 📕 Latest Blog Posts From My Website
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to get git commit history, branches from another private, public, forked or your own repository?](https://techblograna.wordpress.com/2022/08/14/how-to-get-git-commit-history-branches-from-another-private-public-forked-or-your-own-repository/)
+- [Multiple html form validation in a single function with the jquery-validate plugin](https://techblograna.wordpress.com/2022/08/03/multiple-html-form-validation-in-a-single-function-with-the-jquery-validate-plugin/)
+- [Html form validation with vanilla js](https://techblograna.wordpress.com/2022/08/03/html-form-validation-with-vanilla-js/)
 - [Sass Media Queries With Mixin](https://techblograna.wordpress.com/2021/10/14/sass-media-queries-with-mixin/)
 - [In Css Media Query Which css Unit You Shoul Use?](https://techblograna.wordpress.com/2021/10/13/in-css-media-query-which-css-unit-you-shoul-use/)
-- [Media Query Write With Javascript](https://techblograna.wordpress.com/2021/09/23/media-query-write-with-javascript/)
-- [How to copy text onclick function using jquery?](https://techblograna.wordpress.com/2021/09/22/how-to-copy-text-onclick-function-using-jquery/)
-- [Email Template List](https://techblograna.wordpress.com/2021/07/11/email-template-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
@@ -118,7 +116,7 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false" />
+  <img alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false" />
 
 [github]: https://github.com/iamtheasad?tab=repositories
 [website]: https://techblograna.wordpress.com/
@@ -129,7 +127,25 @@
 [linkedin]: https://linkedin.com/in/iamtheasad
 [stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad
 
+---
+
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+
+Pinned:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=user)](https://github.com/iamtheasad/user)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=dashboard-markup)](https://github.com/iamtheasad/dashboard-markup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=email-template)](https://github.com/iamtheasad/email-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=exhibition-gulp)](https://github.com/iamtheasad/exhibition-gulp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=all-banners-view)](https://github.com/iamtheasad/all-banners-view)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=shareTravel-l-p)](https://github.com/iamtheasad/shareTravel-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=gulp-nunjucks-static-starter)](https://github.com/iamtheasad/gulp-nunjucks-static-starter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=eslint-config)](https://github.com/iamtheasad/eslint-config)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=nexter-l-p)](https://github.com/iamtheasad/nexter-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=shareTravel-l-p)](https://github.com/iamtheasad/shareTravel-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=trillo-l-p)](https://github.com/iamtheasad/trillo-l-p)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=face-recognition-app)](https://github.com/iamtheasad/face-recognition-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamtheasad&repo=robot)](https://github.com/iamtheasad/robot)
