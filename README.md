@@ -97,11 +97,11 @@
 ### 📕 Latest Blog Posts From My Website
 
 <!-- BLOG-POST-LIST:START -->
+- [Naming Convention of Git Branch](https://techblograna.wordpress.com/2022/10/20/naming-convention-of-git-branche/)
 - [Convert pixel values to rem in sass/scss style](https://techblograna.wordpress.com/2022/10/12/convert-pixel-values-to-rem-in-sass-scss-style/)
 - [How to access pc localhost from my android device](https://techblograna.wordpress.com/2022/09/20/how-can-i-access-my-localhost-from-my-android-device/)
 - [How to get git commit history, branches from another private, public, forked or your own repository?](https://techblograna.wordpress.com/2022/08/14/how-to-get-git-commit-history-branches-from-another-private-public-forked-or-your-own-repository/)
 - [Multiple html form validation in a single function with the jquery-validate plugin](https://techblograna.wordpress.com/2022/08/03/multiple-html-form-validation-in-a-single-function-with-the-jquery-validate-plugin/)
-- [Html form validation with vanilla js](https://techblograna.wordpress.com/2022/08/03/html-form-validation-with-vanilla-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://techblograna.wordpress.com/)
