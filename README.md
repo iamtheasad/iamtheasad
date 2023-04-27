@@ -20,7 +20,7 @@
   <!-- -- Learn Backend Technology
   --- Learn web3 -->
 
----
+<!-- --- -->
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSozulc9frdn-q8EPX4QwSA?label=%20Subscribers&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCSozulc9frdn-q8EPX4QwSA?label=Total%20Views&logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
@@ -77,21 +77,21 @@
 <!-- <br />
 <br /> -->
 
----
+<!-- ---
 
-<!-- ### 📺 Latest YouTube Videos From My YouTube Channel -->
+### 📺 Latest YouTube Videos From My YouTube Channel
 
-<!-- YOUTUBE:START -->
-<!-- - [আমার মামা যখন ক্যামেরা গার্ল](https://www.youtube.com/watch?v=XIlViycNEIA)
+
+- [আমার মামা যখন ক্যামেরা গার্ল](https://www.youtube.com/watch?v=XIlViycNEIA)
 - [How to send email using Gmail API &lpar;uses OAuth2 and nodemailer&rpar; | No Sound](https://www.youtube.com/watch?v=gLE1XoKfqBQ)
 - [JavaScript Nested Loop](https://www.youtube.com/watch?v=Sltjhrye7h8)
 - [Javascript Comparison operator equal, not equal, less and greater than](https://www.youtube.com/watch?v=9FX03nRQLXM)
-- [How to create new JavaScript DOM Element? | Bangla](https://www.youtube.com/watch?v=pmn5hphTGO8) -->
-<!-- YOUTUBE:END -->
+- [How to create new JavaScript DOM Element? | Bangla](https://www.youtube.com/watch?v=pmn5hphTGO8)
 
-<!-- ➡️ [more videos...](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/) -->
 
----
+➡️ [more videos...](https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/)
+
+--- -->
 
 <!-- ### 📕 Latest Blog Posts From My Website -->
 
@@ -107,13 +107,13 @@
 
 ---
 
-<!-- ### Most Used Languages In my Projects
+### Most Used Languages In my Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheasad&langs_count=9)](https://github.com/iamtheasad/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheasad&langs_count=9)](https://github.com/iamtheasad/github-readme-stats)
 
 ---
 
-<!-- ### GitHub Stats
+### GitHub Stats
 
   <img alt="iamtheasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtheasad&show_icons=true&hide_border=false" />
 
@@ -124,11 +124,11 @@
 [youtube]: https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/
 [instagram]: https://instagram.com/iamtheasad
 [linkedin]: https://linkedin.com/in/iamtheasad
-[stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad -->
+[stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad
 
----
+<!-- ---
 
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
