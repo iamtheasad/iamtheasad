@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on [Sharetrip](https://sharetrip.net) Website
 - 💬 Ask me about Javascript, css, html, gulp, scss, nunjucks
 <!-- ⚡ Fun fact: Prgramming is like a girl, I always wanna play with it. -->
-- 🥅 2022 Goals:
+- 🥅 2023 Goals:
 
        - Learn more about Javascript
        -- Learn more about Javascript Framework and Library
