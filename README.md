@@ -111,7 +111,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheasad&langs_count=9)](https://github.com/iamtheasad/github-readme-stats)
 
----
+<!-- ---
 
 ### GitHub Stats
 
@@ -124,7 +124,7 @@
 [youtube]: https://www.youtube.com/channel/UCSozulc9frdn-q8EPX4QwSA/
 [instagram]: https://instagram.com/iamtheasad
 [linkedin]: https://linkedin.com/in/iamtheasad
-[stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad
+[stackoverflow]: https://stackoverflow.com/users/7172189/iamtheasad -->
 
 <!-- ---
 
