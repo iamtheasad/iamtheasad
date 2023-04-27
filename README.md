@@ -9,7 +9,6 @@
 ## I'm a Developer and love to teach Programming 💖
 
 - 🔭 I’m currently working on [Sharetrip](https://sharetrip.net) as a Front-end Engineer
-- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on [Sharetrip](https://sharetrip.net) Website
 - 💬 Ask me about Javascript, css, html, gulp, scss, nunjucks
 <!-- ⚡ Fun fact: Prgramming is like a girl, I always wanna play with it. -->
