@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Sharetrip](https://sharetrip.net) as a Front-end Engineer
 - 👯 I’m looking to collaborate on [Sharetrip](https://sharetrip.net) Website
-- 💬 Ask me about Javascript, css, html, gulp, scss, nunjucks
+- 💬 Ask me about Javascript, Reactjs, css, html, gulp, scss, nunjucks
 <!-- ⚡ Fun fact: Prgramming is like a girl, I always wanna play with it. -->
 - 🥅 2023 Goals:
 
