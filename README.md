@@ -96,11 +96,11 @@
 <!-- ### 📕 Latest Blog Posts From My Website -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Validate Multi Step Form Using jQuery with Regex](https://techblograna.wordpress.com/2023/05/05/how-to-validate-multi-step-form-using-jquery-with-regex/)
 - [How to add github remote repository to local machine and existing local project to remote repository?](https://techblograna.wordpress.com/2022/11/23/how-to-add-github-remote-repository-to-local-machine-and-existing-local-project-to-remote-repository/)
 - [Naming Convention of Git Branch](https://techblograna.wordpress.com/2022/10/20/naming-convention-of-git-branche/)
 - [Convert pixel values to rem in sass/scss style](https://techblograna.wordpress.com/2022/10/12/convert-pixel-values-to-rem-in-sass-scss-style/)
 - [How to access pc localhost from my android device](https://techblograna.wordpress.com/2022/09/20/how-can-i-access-my-localhost-from-my-android-device/)
-- [How to get git commit history, branches from another private, public, forked or your own repository?](https://techblograna.wordpress.com/2022/08/14/how-to-get-git-commit-history-branches-from-another-private-public-forked-or-your-own-repository/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://techblograna.wordpress.com/) -->
